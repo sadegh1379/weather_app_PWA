@@ -1,0 +1,16 @@
+.search-input{
+  padding: 10px 20px;
+  text-align: right;
+  border-radius: 10px;
+  background-color: beige;
+  color:w
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,35 @@
+.App-container{
+    background: linear-gradient( rgba(0,0,0,0.3) , rgba(0,0,0,0.418)  );
+    background-position: center;
+    background-image:  url('https://lh3.googleusercontent.com/proxy/LtHMJp2YGub2R5ibQ4BqIflN7B6vSOmjnNcRRWazFde04lvRBby-D_vOcRen35DInnw1U8iiR_zu1UNM8cQvrDZc0Mn0A_4');
+    background-size: cover;
+    height: 100%;
+    width: 100;
+    /* padding: 200px; */
+}
+.App-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* .search-input{
+  padding: 10px 20px;
+  text-align: right;
+  
+  background-color: beige;
+  color:white;
+  font-size: 15px;
+  
+
+} */
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,20 @@
+html , body , #root{
+  font: 0.9rem sans-serif;
+  background: #1b4da3;
+  color:#1e2432;
+  height: 100%;
+  margin: 0;
+}
+
+.main-container{
+  background-image: url('https://lh3.googleusercontent.com/proxy/LtHMJp2YGub2R5ibQ4BqIflN7B6vSOmjnNcRRWazFde04lvRBby-D_vOcRen35DInnw1U8iiR_zu1UNM8cQvrDZc0Mn0A_4');
+  background: linear-gradient(rgba(0,0,0,0.3) , rgba(0,0,0,0.418) );
+  background-position: center;
+ background-size: cover;
+}
+.main-container{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  
+}

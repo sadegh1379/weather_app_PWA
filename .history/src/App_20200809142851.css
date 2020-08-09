@@ -1,0 +1,29 @@
+.App-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('https://cdn-tehran.wisgoon.com/dlir-s3/10531423983366671526.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.search-input{
+  padding: 10px 20px;
+  text-align: right;
+  border-radius: 10px;
+  background-color: beige;
+  color:white;
+  font-size: 15px;
+  margin: auto;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

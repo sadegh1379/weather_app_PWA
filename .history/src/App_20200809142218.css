@@ -1,0 +1,23 @@
+.App-container{
+    dis
+}
+
+.search-input{
+  padding: 10px 20px;
+  text-align: right;
+  border-radius: 10px;
+  background-color: beige;
+  color:white;
+  font-size: 15px;
+  margin: auto;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
