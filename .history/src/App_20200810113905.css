@@ -1,0 +1,64 @@
+html , body , #root{
+  font: 0.9rem sans-serif;
+  background: #1b4da3;
+  color:#1e2432;
+  height: 100%;
+  margin: 0;
+}
+
+.main-container{
+   /* https://cdn.isna.ir/d/off/khorasan/2020/03/21/3/61599275.jpg */
+
+  background-image: url('https://cdn.isna.ir/d/off/khorasan/2020/03/21/3/61599275.jpg');
+  /* background: linear-gradient(rgba(0,0,0,0.3) , rgba(0,0,0,0.418) ); */
+  background-position: center;
+ background-size: cover;
+}
+.main-container{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column ;
+}
+
+.header{
+  margin-top: -100px;
+  /* font-family: 'Anton', sans-serif; */
+}
+
+.search-input{
+    padding: 10px 20px;
+    border-radius: 30px;
+    margin-top: 100px;
+    text-align: right;
+    text-decoration: initial;
+    
+    font-size: large;
+    border: 0;
+}
+.search-input:focus{
+  box-shadow: 10px 10px 30px gold inset;
+  padding-left: 100px;
+}
+
+.search-input{
+  transition-property: all;
+  transition-duration: 1s;
+}
+
+.search-btn{
+  padding: 10px 100px;
+  border-radius: 20px;
+  background-color: gold;
+  /* background-color: white; */
+  font-size: large;
+  font-weight: 800;
+  margin-top: 20px;
+  color:white;
+  border: 0;
+}
+
+.card{
+  width: ;
+}
