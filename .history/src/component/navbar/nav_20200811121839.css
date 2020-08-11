@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(221, 195, 47) !important;
+    position: absolute !important ;
+    width: 100%;
+    background: transparent !important;
+    color:gold !important;
+    text-align: right;
+}
+
+.navbar a {
+    color:gold !important;
+}
+.navbar span{
+    color :gold !important;
+}
